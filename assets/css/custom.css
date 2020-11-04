@@ -1,0 +1,17 @@
+/* It is recommended to place all your extra/additional CSS rules here */
+
+.logo a:link {
+  
+    color          :rgba(255,255,255,0.8);
+    text-decoration: none;
+}
+
+logo a:visited {
+    color          :rgba(255,255,255,0.8);
+    text-decoration: none;
+}
+
+logo a:hover {
+    color          :rgba(255,255,255,0.8);
+    text-decoration: underline;
+}
